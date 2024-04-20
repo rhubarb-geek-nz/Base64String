@@ -1,4 +1,4 @@
-# rhubarb-geek-nz/Base64String
+# rhubarb-geek-nz.Base64String
 Base64 tools for PowerShell
 
 ConvertTo- and ConvertFrom- Base64String
